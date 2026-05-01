@@ -57,11 +57,14 @@ I'm a **Software Engineer** with 1+ year of experience building **large-scale, f
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 
-**AI / LLM**
+**AI / Gen AI**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
 ![FAISS](https://img.shields.io/badge/FAISS_VectorDB-0467DF?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-6B46C1?style=flat-square)
+![Google ADK](https://img.shields.io/badge/Google_ADK-Agent_Dev_Kit-4285F4?style=flat-square&logo=google&logoColor=white)
+![A2A](https://img.shields.io/badge/A2A-Agent_to_Agent_Protocol-FF6B35?style=flat-square)
 
 ---
 
@@ -93,13 +96,16 @@ I'm a **Software Engineer** with 1+ year of experience building **large-scale, f
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saikumaradapa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumaradapa&layout=compact&theme=github_dark&hide_border=true"/>
-</div>
+<!-- <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saikumaradapa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
+  &nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumaradapa&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&langs_count=8" />
+</div> -->
+
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikumaradapa&theme=github-dark-blue&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=saikumaradapa&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
