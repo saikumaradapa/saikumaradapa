@@ -1,24 +1,23 @@
-<div align="center">
-  <h1>Sai Kumar Adapa</h1>
-  <h3>Software Engineer · Distributed Systems · Backend Infrastructure · AI/LLM Integration</h3>
+<div align="center"><h1>Sai Kumar Adapa</h1><h3>Software Engineer · Distributed Systems · Backend Infrastructure · AI/LLM Integration</h3>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-kumar-adapa-5a16b2228)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/sai_kumar_adapa)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saikumaradapa.netlify.app/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikumaradapa3266@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sai-kumar-adapa-5a16b2228)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://www.leetcode.com/sai_kumar_adapa)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://saikumaradapa.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saikumaradapa3266@gmail.com)
+
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** with 1+ year of experience building **large-scale, fault-tolerant distributed systems** and **high-throughput backend microservices** at [Infor](https://www.infor.com/) — a global enterprise software company.
+I'm a **Software Engineer** with 1+ year of experience building **large-scale, fault-tolerant distributed systems** and **high-throughput backend microservices** at [Infor](https://www.infor.com/) - a global enterprise software company.
 
-- 🏢 Currently: **Associate Software Engineer @ Infor** — building backend microservices in **Go & Python** on **AWS EKS**
+- 🏢 Currently: **Associate Software Engineer @ Infor** - building backend microservices in **Go & Python** on **AWS EKS**
 - ⚙️ I specialize in **distributed systems**, **event-driven architecture**, **CI/CD**, and **cloud-native infrastructure**
-- 🤖 Prev: **Generative AI Engineer** — built LLM/RAG pipelines using OpenAI, LangChain, FAISS
+- 🤖 Prev: **Generative AI Engineer** - built LLM/RAG pipelines using OpenAI, LangChain, FAISS
 - 🧠 **1500+ problems** solved on LeetCode (**Top 12%**) + 500+ on GeeksforGeeks
-- 🔥 **700+ day** coding streak — consistency is my edge
+- 🔥 **700+ day** coding streak - consistency is my edge
 - 📍 Hyderabad, India · Open to **remote / relocation**
 
 ---
@@ -71,6 +70,7 @@ I'm a **Software Engineer** with 1+ year of experience building **large-scale, f
 ## 🚀 Featured Projects
 
 ### 🔵 [Connection-Sphere](https://github.com/saikumaradapa/Connection-Sphere)
+
 > Production-grade scalable social media backend
 
 **Go · PostgreSQL · Redis · Docker · Jenkins CI**
@@ -83,7 +83,8 @@ I'm a **Software Engineer** with 1+ year of experience building **large-scale, f
 
 ---
 
-### 🟠 [TeckyBot — RAG Application](https://www.linkedin.com/posts/sai-kumar-adapa-5a16b2228_happyjourney-artificialintelligence-ai-activity-7171710108077318145-yEN2)
+### 🟠 [TeckyBot - RAG Application](https://www.linkedin.com/posts/sai-kumar-adapa-5a16b2228_happyjourney-artificialintelligence-ai-activity-7171710108077318145-yEN2)
+
 > LLM-powered Retrieval-Augmented Generation app
 
 **Python · LangChain · FAISS · OpenAI**
@@ -96,16 +97,12 @@ I'm a **Software Engineer** with 1+ year of experience building **large-scale, f
 
 ## 📊 GitHub Stats
 
-<!-- <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saikumaradapa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumaradapa&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&langs_count=8" />
-</div> -->
+<!-- <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=saikumaradapa&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=86400" />&nbsp;&nbsp;<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikumaradapa&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400&langs_count=8" /></div> -->
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=saikumaradapa&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+<img src="https://streak-stats.demolab.com/?user=saikumaradapa&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 ---
@@ -114,7 +111,7 @@ I'm a **Software Engineer** with 1+ year of experience building **large-scale, f
 
 | Platform | Stats |
 |----------|-------|
-| 🟡 LeetCode | **1500+ problems** · **Top 12%** globally |
+| 🟡 LeetCode | **1500+ problems** · **Top 5%** globally |
 | 🟢 GeeksforGeeks | **500+ problems** |
 | 🔥 Streak | **700+ days** of consistent coding |
 
@@ -122,15 +119,17 @@ I'm a **Software Engineer** with 1+ year of experience building **large-scale, f
 
 ## 🎓 Education
 
-**B.Tech – Information Technology (Honours)**
-GMR Institute of Technology · CGPA: **8.88** · 2020–2024
+**B.Tech - Information Technology (Honours)**
+GMR Institute of Technology · CGPA: **8.88** · 2020-2024
 
-**Credit Course – DSA Using Python**
+**Credit Course - DSA Using Python**
 IIT Madras · **Elite Medal** · 2023
 
 ---
 
 <div align="center">
-  <i>Open to backend, distributed systems, and SWE roles at product-first companies.</i><br/>
-  <b>Let's connect → <a href="mailto:saikumaradapa3266@gmail.com">saikumaradapa3266@gmail.com</a></b>
+
+<i>Open to backend, distributed systems, and SWE roles at product-first companies.</i><br/>
+<b>Let's connect → <a href="mailto:saikumaradapa3266@gmail.com">saikumaradapa3266@gmail.com</a></b>
+
 </div>
