@@ -132,4 +132,5 @@ IIT Madras · **Elite Medal** · 2023
 <i>Open to backend, distributed systems, and SWE roles at product-first companies.</i><br/>
 <b>Let's connect → <a href="mailto:saikumaradapa3266@gmail.com">saikumaradapa3266@gmail.com</a></b>
 
+
 </div>
